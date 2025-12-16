@@ -11,7 +11,7 @@ I investigate how model performance scales with parameter count by:
 - Analyzing computational efficiency and musical quality
 
 ## Project Structure
-
+```
 │   ├── raw_midi/           # Downloaded MIDI files
 │   ├── abc_notation/       # Converted ABC files
 │   ├── train.txt           # Training data (98%)
