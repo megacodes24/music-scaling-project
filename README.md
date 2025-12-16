@@ -109,7 +109,7 @@ urllib.request.urlretrieve(url, "clean_midi.tar.gz")
 ## Dataset Statistics
 
 
-- **Vocabulary size:** ~75 unique characters
+- **Vocabulary size:** ~75 characters
 - **Token counts:**
   - Training: ~2.3M tokens
   - Validation: ~28K tokens
