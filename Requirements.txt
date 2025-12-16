@@ -1,0 +1,9 @@
+Requirements:
+
+torch>=2.0
+numpy
+scipy
+matplotlib
+tqdm
+music21
+pickle-mixin
